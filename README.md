@@ -1,24 +1,29 @@
 <div align="center">
 
 <!-- ===================== HERO BANNER =====================
-     Change the `text=` value to update the name shown in the banner. -->
+     Change `text=` to update the name. Keep %20 for spaces. -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:8a2be2,100:39ff14&height=220&section=header&text=Md.%20Rifat%20Hasan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descSize=26&descAlignY=62&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:8a2be2,100:39ff14&height=240&section=header&text=Md.%20Rifat%20Hasan&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=FULL-STACK%20DEVELOPER&descSize=30&descAlignY=63&animation=fadeIn"
   width="100%"
   alt="Md. Rifat Hasan — Full-Stack Developer"
 />
 
 <!-- ===================== TYPING ANIMATION =====================
-     Edit the `lines=` array to change the rotating text (use %20 for spaces). -->
+     Edit `lines=` to change rotating text (use %20 spaces, %7C pipes, %26 ampersand). -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Laravel;WordPress+%26+Shopify+Expert;Building+the+Future+of+the+Web"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2300&pause=750&color=00F5FF&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Laravel;WordPress+%26+Shopify+Expert;Building+the+Future+of+the+Web"
   alt="Full-Stack Developer — React, Next.js, Node.js, Laravel — WordPress & Shopify Expert — Building the Future of the Web"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=600&color=39FF14&center=true&vCenter=true&width=640&lines=%3E+WordPress+Plugin+%26+Theme+Development;%3E+Frontend+to+Backend+%7C+Secure+APIs;%3E+Pixel-perfect+UI+%2D%3E+Production+Ready"
+  alt="WordPress Plugin and Theme Development, Frontend to Backend, Pixel-perfect UI to Production Ready"
 />
 
 <br/>
 
 <!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=rifat15-4084&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=rifat15-4084&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile views" />
 
 <br/><br/>
 
@@ -29,7 +34,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=700&color=39FF14&center=true&width=520&lines=%2F%2F+Full-Stack+Developer+%7C+WordPress+%26+Shopify+Expert" alt="Full-Stack Developer | WordPress & Shopify Expert" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=700&color=C084FC&center=true&width=560&lines=%2F%2F+Full-Stack+Developer+%7C+WordPress+Plugin+%26+Theme+Dev" alt="Full-Stack Developer | WordPress Plugin & Theme Development" />
 
 </div>
 
@@ -45,12 +50,19 @@ const developer = {
   location: "Dhaka, Bangladesh",
 
   frontend:  ["HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Bootstrap", "React", "Next.js", "jQuery"],
-  backend:   ["Node.js", "Express.js", "PHP"],
+  backend:   ["Node.js", "Express.js", "PHP", "Laravel"],
   database:  ["MongoDB", "MySQL", "Firebase"],
   cms:       ["WordPress", "WooCommerce", "Shopify", "Elementor", "Bricks Builder", "Wix", "Squarespace"],
 
+  specializes: ["WordPress Plugin Development", "WordPress Theme Development"],
+  builds:      ["eCommerce", "Booking Systems", "Role-based Dashboards", "Payment Integrations"],
+
+  talksToClients: true,
+  leadsMeetings:  true,
+  givesUpdates:   true,
+
   currentlyLearning: ["Laravel", "MySQL", "Vue.js"],
-  goal: "Grow as a Full-Stack Developer and WordPress Developer",
+  goal: "Grow as a Full-Stack Developer and WordPress Plugin & Theme Developer",
 
   openToWork: true,
 };
@@ -61,6 +73,35 @@ const developer = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-md--rifat--hasan.vercel.app-00f5ff?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://md-rifat-hasan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md--Rifat--Hasan-8a2be2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/Md-Rifat-Hasan)
 [![Email](https://img.shields.io/badge/Email-rifat15--4084%40diu.edu.bd-39ff14?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:rifat15-4084@diu.edu.bd)
+
+</div>
+
+<br/>
+
+## 🛠️ What I Build
+
+<div align="center">
+
+| | | |
+| :---: | :---: | :---: |
+| 🛒 **eCommerce Stores** | 📅 **Booking Systems** | 🔐 **Role-based Dashboards** |
+| 💳 **Payment Integrations** | 🌐 **Responsive Web Apps** | ⚡ **Secure REST APIs** |
+
+</div>
+
+> I build fast, responsive and scalable web applications — from pixel-perfect frontends to secure backends and APIs. I talk directly with clients, give updates and lead meetings.
+
+<br/>
+
+## 💼 Experience & 🎓 Education
+
+<div align="center">
+
+| Period | Role | Where |
+| :--- | :--- | :--- |
+| **Feb 2025 – Jul 2026** | Frontend Developer & Junior Software Developer | Octipi Digital LLC |
+| **3 months** | Full-stack Industrial Intern — PHP Laravel, MySQL, REST APIs, CRUD, Authentication | Internship |
+| **2021 – 2025** | B.Sc. | Daffodil International University |
 
 </div>
 
@@ -90,6 +131,29 @@ const developer = {
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=ffffff" alt="Canva" />
 <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=ffffff" alt="ClickUp" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=ffffff" alt="Stripe" />
+
+</div>
+
+<br/>
+
+## 🧩 WordPress Plugin & Theme Development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PLUGIN-DEVELOPMENT-00f5ff?style=for-the-badge&logo=wordpress&logoColor=0d1117" alt="Plugin Development" />
+<img src="https://img.shields.io/badge/THEME-DEVELOPMENT-8a2be2?style=for-the-badge&logo=wordpress&logoColor=ffffff" alt="Theme Development" />
+<img src="https://img.shields.io/badge/WOOCOMMERCE-39ff14?style=for-the-badge&logo=woocommerce&logoColor=0d1117" alt="WooCommerce" />
+<img src="https://img.shields.io/badge/ELEMENTOR+%7C+BRICKS-ec4a8f?style=for-the-badge&logo=elementor&logoColor=ffffff" alt="Elementor and Bricks Builder" />
+
+<br/><br/>
+
+| Capability | Details |
+| :--- | :--- |
+| 🔌 **Plugin Development** | Custom WordPress plugins built with PHP — tailored features, shortcodes and integrations for real client requirements. |
+| 🎨 **Theme Development** | Custom WordPress themes — pixel-perfect, responsive frontends converted into clean, editable themes. |
+| 🛒 **WooCommerce Builds** | Product, cart, checkout and payment flows wired up with Stripe. |
+| 🧱 **Builder Expertise** | Elementor and Bricks Builder customization for fast, design-driven delivery. |
+| ⚙️ **Shopify & Headless** | Shopify store customization, plus React / Next.js frontends over Node.js & MongoDB APIs. |
 
 </div>
 
@@ -147,12 +211,16 @@ const developer = {
 
 ## 🎯 Currently Learning & Goals
 
-- 📚 Currently learning **Laravel**, **MySQL** and **Vue.js**
-- 🎓 B.Sc., Daffodil International University (2021–2025)
-- 💼 Experience: Frontend Developer & Junior Software Developer at **Octipi Digital LLC** (Feb 2025 – Jul 2026)
-- 🏢 Full-stack Industrial Intern — PHP Laravel, MySQL, REST APIs, CRUD, Authentication
-- 🚀 Goal: grow as a **Full-Stack Developer** and **WordPress Developer**
-- ✅ Status: **Open to work**
+<div align="center">
+
+| | |
+| :---: | :---: |
+| 📚 **Learning now** | Laravel · MySQL · Vue.js |
+| 🎓 **Course** | Full Stack Web Development with PHP, Laravel & Vue.js (Ostad) |
+| 🚀 **Goal** | Grow as a Full-Stack Developer and WordPress Plugin & Theme Developer |
+| ✅ **Status** | **Open to work** |
+
+</div>
 
 <br/>
 
@@ -173,7 +241,15 @@ const developer = {
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,50:8a2be2,100:00f5ff&height=140&section=footer" width="100%" alt="Footer wave" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3400&pause=900&color=00F5FF&center=true&width=600&lines=%2F%2F+Designed+%26+built+by+Md.+Rifat+Hasan" alt="Designed and built by Md. Rifat Hasan" />
+
+<br/>
+
+<i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,50:8a2be2,100:00f5ff&height=150&section=footer" width="100%" alt="Footer wave" />
+
 </div>
